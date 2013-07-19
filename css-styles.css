@@ -1,0 +1,28 @@
+/*Jordan Carter
+Visual Frameworks 1307
+Project 2
+Css style Sheet*/
+
+
+h1 {
+    alignment-baseline: central;
+    background: #000;
+    font-size: x-large;
+    color: #fff;
+    letter-spacing: 1px;
+    border-color: #fff;
+    border: outset 3px;
+}
+legend {
+    border: solid 2px;
+    background: center;
+}
+label {
+    font-size: 20px;
+    color: #000;
+    font-family: fantasy;
+    font-style: italic;
+    letter-spacing: important;
+    line-height: 2.0em;
+    margin: 20px, 20px, 20px, 20px;
+}
